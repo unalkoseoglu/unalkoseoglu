@@ -1,5 +1,5 @@
--<h1 align="center">Merhaba👋, ben Ünal Köseoğlu</h1>
-<h3 align="center">Mobil uygulama geliştiricisi olmak için her gün öğreniyorum ve projeler yapıyorum. Bunları sizlerle paylaşmak için buradayım.</h3>
+-<h1 align="center">Hi👋, I'm Ünal Köseoğlu</h1>
+<h3 align="center">I'm learning and working on projects daily to develop mobile applications. I'm here to tell you about them.</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
